@@ -1,0 +1,12 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "description": "MA02 learning about yarn",
+  "main": "index.js",
+  "repository": "https://github.com/louisery/yarn.git",
+  "author": "Louise Ryste <louiseryste@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
